@@ -1,5 +1,4 @@
-
-
+//you can download Processing from processing.org
 
 void setup(){
  size(800,720);
