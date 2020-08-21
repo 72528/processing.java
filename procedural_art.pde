@@ -14,8 +14,8 @@ void draw(){
  mouseX  = constrain( mouseX,10,width);
  mouseY = constrain(mouseY,10, height);
 
-//float yStep = mouseY; //you can use this to make  
-//float arcSize = mouseX;//by using this you can increase the size of art
+//float yStep = mouseY; //cannot explain you need to watch it yourself. 
+//float arcSize = mouseX;//by using this you can increase the size of art.
  noFill();
  stroke(20);
  
